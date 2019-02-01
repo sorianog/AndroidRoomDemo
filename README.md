@@ -1,5 +1,6 @@
 # Android Room Demo
-Demo app using the Android Room Persistence Library 
+Demo app using the Android Room Persistence Library  
+![Gif](https://gfycat.com/WateryAdmiredCanvasback)
 
 ## Resources
 [Room Persistence Library | Android Developers](https://developer.android.com/topic/libraries/architecture/room)  
